@@ -1,6 +1,6 @@
-# MediScript: Advanced Prescription Parser
+# MediScript: Advanced Prescription Analyzer
 
-![MediScript Banner](https://img.shields.io/badge/MediScript-Prescription%20Parser-blue?style=for-the-badge)
+![MediScript Banner](https://img.shields.io/badge/MediScript-Prescription%20Analyzer-blue?style=for-the-badge)
 
 An advanced application that uses image processing techniques and Google's Gemini AI to accurately extract information from medical prescriptions.
 
