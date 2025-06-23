@@ -15,7 +15,7 @@ from modules import (
 load_dotenv()
 
 st.set_page_config(
-    page_title="Medical Prescription Analyser",
+    page_title="MediScript: Medical Prescription Analyser",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded"
